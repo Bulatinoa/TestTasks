@@ -1,0 +1,17 @@
+C:\Users\Akbar\Downloads\Тестовые\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Akbar\Downloads\Тестовые\DataBase\bin\Debug\DataBase.exe
+C:\Users\Akbar\Downloads\Тестовые\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.exe
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.Add_Form_Commun.resources
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.MainForm.resources
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.Add_Form_Object.resources
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.ObjectForm.resources
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.Add_Form_Attributes.resources
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.CommunForm.resources
+C:\Users\Akbar\Downloads\Тестовые\DataBase\obj\Debug\DataBase.AttributesForm.resources
