@@ -1,0 +1,16 @@
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\bin\Debug\PatientsDataBase.exe.config
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\bin\Debug\PatientsDataBase.exe
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\bin\Debug\PatientsDataBase.pdb
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.csproj.AssemblyReference.cache
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.Properties.Resources.resources
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.csproj.GenerateResource.cache
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.exe
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.pdb
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.Add_Patients.resources
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.Patients.resources
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.Add_Visits.resources
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.Main_Form.resources
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.Visits.resources
+C:\Users\Akbar\Downloads\Тестовые\PatientsDataBase\obj\Debug\PatientsDataBase.PatientsAndVisits.resources
